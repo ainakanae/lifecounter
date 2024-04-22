@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "760A1CB0-1A47-47D8-B5C1-416F8EA17F1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F690E2BF-4C26-4BE9-ACEC-5B713BD57C77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lifecounter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "p1plus1(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lifecounter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776 - e91ed29cd5422846"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lifecounter.ViewController.banner.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "lifecounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainaengelbrekt/Desktop/INFO449/lifecounter/lifecounter/lifecounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776 - 878a368f32f0f14a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lifecounter.ViewController.banner.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "lifecounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainaengelbrekt/Desktop/INFO449/lifecounter/lifecounter/lifecounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776 - 52a0c5bc71afb350"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lifecounter.ViewController.banner.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "lifecounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainaengelbrekt/Desktop/INFO449/lifecounter/lifecounter/lifecounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776 - d15db3f680700188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lifecounter.ViewController.banner.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lifecounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainaengelbrekt/Desktop/INFO449/lifecounter/lifecounter/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776 - a7b9efad5df2414b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lifecounter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lifecounter.ViewController"
+                  moduleName = "lifecounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainaengelbrekt/Desktop/INFO449/lifecounter/lifecounter/lifecounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "91B480BF-16D0-4539-A4E3-56749BBB0776 - 9829b793c34cbc72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lifecounter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lifecounter.ViewController&gt;"
+                  moduleName = "lifecounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainaengelbrekt/Desktop/INFO449/lifecounter/lifecounter/lifecounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
