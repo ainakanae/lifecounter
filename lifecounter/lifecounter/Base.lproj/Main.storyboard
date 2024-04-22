@@ -98,6 +98,7 @@
                     </view>
                     <connections>
                         <outlet property="banner" destination="7Q7-T6-hpK" id="UgC-LT-egv"/>
+                        <outlet property="p1Banner" destination="7Q7-T6-hpK" id="oU9-mo-NDs"/>
                         <outlet property="player1reference" destination="ktM-Vm-1iM" id="wCe-Lu-nJ4"/>
                     </connections>
                 </viewController>

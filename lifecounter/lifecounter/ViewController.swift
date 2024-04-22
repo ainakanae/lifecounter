@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     var p2Lives = 20
     
     
-    @IBOutlet var banner: UILabel!
+    @IBOutlet var p1Banner: UILabel!
     
     @IBOutlet var player1reference: UILabel!
     
@@ -51,7 +51,9 @@ class ViewController: UIViewController {
     
     func p1LoserBanner() {
         if p1Lives <= 0 {
-            banner.text = "Player 1 Loses!"
+            p1Banner.text = "Player 1 Loses!"
+        } else {
+            p1Banner.text = ""
         }
     }
 }
