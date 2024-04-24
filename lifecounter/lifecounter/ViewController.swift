@@ -17,8 +17,8 @@ class ViewController: UIViewController {
     var p1Lives = 20
     var p2Lives = 20
     
+    @IBOutlet var loserText: UILabel!
     
-    @IBOutlet var p1Banner: UILabel!
     
     @IBOutlet var player1reference: UILabel!
     
@@ -51,15 +51,20 @@ class ViewController: UIViewController {
     
     func changePlayer1Lives(){
         player1reference.text = "Player 1 lives:  \(p1Lives)"
-        p1LoserBanner()
+        LoserBanner()
 
     }
+
     
-    func p1LoserBanner() {
-        if p1Lives > 0 {
-            p1Banner.text = ""
+    func LoserBanner() {
+        if (p1Lives > 0 && p2Lives > 0) {
+            loserText.text = ""
+        } else if (p2Lives <= 0 && p1Lives > 0) {
+            loserText.text = "Player 2 Loses!"
+        } else if (p1Lives <= 0 && p2Lives > 0) {
+            loserText.text = "Player 1 Loses!"
         } else {
-            p1Banner.text = "Player 1 Loses!"
+            loserText.text = ""
         }
     }
     
@@ -67,8 +72,6 @@ class ViewController: UIViewController {
     @IBOutlet var p2referenceText: UILabel!
     
     
-    
-    @IBOutlet var p2Banner: UILabel!
     
     
     
@@ -98,17 +101,11 @@ class ViewController: UIViewController {
     
     func changePlayer2Lives(){
         p2referenceText.text = "Player 2 lives:  \(p2Lives)"
-        p2LoserBanner()
+        LoserBanner()
 
     }
     
-    func p2LoserBanner() {
-        if p2Lives > 0 {
-            p2Banner.text = ""
-        } else {
-            p2Banner.text = "Player 2 Loses!"
-        }
-    }
+    
     
     
 }
