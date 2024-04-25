@@ -9,8 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //variables
+    @IBOutlet var resultBanner: UILabel!
     
     
+    @IBOutlet var playersInGame: UITableView!
     
     
     override func viewDidLoad() {

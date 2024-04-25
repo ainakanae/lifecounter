@@ -8,6 +8,9 @@
 import UIKit
 
 class GameHistoryViewController: UIViewController {
+    
+    //variables
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()

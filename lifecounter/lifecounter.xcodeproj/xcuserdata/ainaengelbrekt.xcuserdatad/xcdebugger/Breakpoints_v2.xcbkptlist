@@ -7,16 +7,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "EC42723B-83B2-4055-BC22-87DAC5E90152"
+            uuid = "ABCF9560-30CE-46C8-B5CB-11F7BEF59AFA"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "lifecounter/ViewController.swift"
+            filePath = "lifecounter/GameHistoryViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "ViewController"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GameHistoryViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
